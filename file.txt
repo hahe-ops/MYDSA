@@ -1,1 +1,7 @@
-this is a file
+This is a file.
+<br>
+Things done:
+<ol>
+	<li> single array </li>
+	<li> linear sort </li>
+</ol>
