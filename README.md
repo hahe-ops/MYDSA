@@ -11,5 +11,7 @@ Things done: <br>
 <button type="button">LINEAR</button></a> </li>
 	<li> bubble sort  👉️ <a href="/bubble.py">
 <button type="button">BUBBLE</button></a> </li>
+        <li> selection sort  👉️ <a href="/bubble.py">
+<button type="button">SELECTION</button></a> </li>
 
 </ol>
