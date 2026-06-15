@@ -1,4 +1,4 @@
-ar=[3,90,8,12,4]
+ar=[3,90,9,12,4]
 n=len(ar)
 for i in range(n-1):
     for j in range(n-i-1):
