@@ -9,4 +9,7 @@ Things done: <br>
 <button type="button">2D</button></a> </li>
 	<li> linear sort <a href="/linear.py">
 <button type="button">LINEAR</button></a> </li>
+	<li> bubble sort <a href="/bubble.py">
+<button type="button">BUBBLE</button></a> </li>
+
 </ol>
