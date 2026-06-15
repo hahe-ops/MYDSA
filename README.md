@@ -5,6 +5,7 @@ Author: Ananya
 Hello. <br>
 Things done: <br>
 <ol>
-	<li> single array <a href='/2Darray.py'></a> </li>
+	<li> single array <a href="/2Darray.py">
+<button type="button">2d</button></a> </li>
 	<li> linear sort </li>
 </ol>
