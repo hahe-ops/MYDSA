@@ -13,5 +13,7 @@ Things done: <br>
 <button type="button">BUBBLE</button></a> </li>
         <li> selection sort  👉️ <a href="/bubble.py">
 <button type="button">SELECTION</button></a> </li>
+        <li> right angled triangle  👉️ <a href="/rightrian.py">
+<button type="button">Right Angled Triangle</button></a> </li>
 
 </ol>
