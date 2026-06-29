@@ -21,4 +21,6 @@ Things done: <br>
 <button type="button">MISSING NUMBER</button></a></li>
 	<li> array into three segments 👉️ <a href="three.py">
 <button type="button">ARRAY INTO THREE SEGMENTS</button></a></li>
+	<li> adding by query 👉️ <a href="querryadd.py">
+<button type="button"> ADD BY QUERY</button></a></li>
 </ol>
