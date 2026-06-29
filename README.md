@@ -5,22 +5,13 @@ Author: Ananya
 Hello. <br>
 Things done: <br>
 <ol>
-	<li> single array  👉️  <a href="/2Darray.py">
-<button type="button">2D</button></a> </li>
-	<li> linear sort  👉️ <a href="/linear.py">
-<button type="button">LINEAR</button></a> </li>
-	<li> bubble sort  👉️ <a href="/bubble.py">
-<button type="button">BUBBLE</button></a> </li>
-        <li> selection sort  👉️ <a href="/bubble.py">
-<button type="button">SELECTION</button></a> </li>
-        <li> right angled triangle  👉️ <a href="/rightrian.py">
-<button type="button">RIGHT ANGLED TRIANGLE</button></a> </li>
-	<li> hollow rectangle  👉️ <a href="/rectangle.py">
-<button type="button">HOLLOW RECTANGLE</button></a></li>
-	<li> missing number  👉️ <a href="missing.py">
-<button type="button">MISSING NUMBER</button></a></li>
-	<li> array into three segments 👉️ <a href="three.py">
-<button type="button">ARRAY INTO THREE SEGMENTS</button></a></li>
-	<li> adding by query 👉️ <a href="querryadd.py">
-<button type="button"> ADD BY QUERY</button></a></li>
+	<li> single array  👉️  <a href="/2Darray.py">2D</a> </li>
+	<li> linear sort  👉️ <a href="/linear.py">LINEAR</a> </li>
+	<li> bubble sort  👉️ <a href="/bubble.py">BUBBLE</a> </li>
+        <li> selection sort  👉️ <a href="/bubble.py">SELECTION</a> </li>
+        <li> right angled triangle  👉️ <a href="/rightrian.py">RIGHT ANGLED TRIANGLE</a> </li>
+	<li> hollow rectangle  👉️ <a href="/rectangle.py">HOLLOW RECTANGLE</a></li>
+	<li> missing number  👉️ <a href="missing.py">MISSING NUMBER</a></li>
+	<li> array into three segments 👉️ <a href="three.py">ARRAY INTO THREE SEGMENTS</a></li>
+	<li> adding by query 👉️ <a href="querryadd.py"> ADD BY QUERY</a></li>
 </ol>
