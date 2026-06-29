@@ -17,6 +17,8 @@ Things done: <br>
 <button type="button">RIGHT ANGLED TRIANGLE</button></a> </li>
 	<li> hollow rectangle  👉️ <a href="/rectangle.py">
 <button type="button">HOLLOW RECTANGLE</button></a></li>
-	<LI> missing number  👉️ <a href="missing.py">
+	<li> missing number  👉️ <a href="missing.py">
 <button type="button">MISSING NUMBER</button></a></li>
+	<li> array into three segments 👉️ <a href="three.py">
+<button type="button">ARRAY INTO THREE SEGMENTS</button></a></li>
 </ol>
