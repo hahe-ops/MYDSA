@@ -1,0 +1,15 @@
+ar=[1,2,3,4,5,6,7,8,9]
+print("enter range for queries: ")
+a=int(input("Left side for first query: "))
+b=int(input("Right side for first query: "))
+a2=int(input("Left side for second query: "))
+b2=int(input("Right side for second query: "))
+a3=int(input("Left side for third query: "))
+b3=int(input("Right side for third query: "))
+
+s1=sum(ar[a:b+1])
+s2=sum(ar[a2:b2+1])
+s3=sum(ar[a3:b3+1])
+print("1: ", s1)
+print("2: ", s2)
+print("3: ", s3)
