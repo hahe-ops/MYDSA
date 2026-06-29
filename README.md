@@ -14,8 +14,9 @@ Things done: <br>
         <li> selection sort  👉️ <a href="/bubble.py">
 <button type="button">SELECTION</button></a> </li>
         <li> right angled triangle  👉️ <a href="/rightrian.py">
-<button type="button">Right Angled Triangle</button></a> </li>
-        <li> Hollow Rectangle  👉️ <a href="/rectangle.py">
-<button type="button">Hollow Rectangle</button></a> </li>
-
+<button type="button">RIGHT ANGLED TRIANGLE</button></a> </li>
+	<li> hollow rectangle  👉️ <a href="/rectangle.py">
+<button type="button">HOLLOW RECTANGLE</button></a></li>
+	<LI> missing number  👉️ <a href="missing.py">
+<button type="button">MISSING NUMBER</button></a></li>
 </ol>
