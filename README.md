@@ -14,4 +14,5 @@ Things done: <br>
 	<li> missing number  👉️ <a href="missing.py">MISSING NUMBER</a></li>
 	<li> array into three segments 👉️ <a href="three.py">ARRAY INTO THREE SEGMENTS</a></li>
 	<li> adding by query 👉️ <a href="querryadd.py"> ADD BY QUERY</a></li>
+	<li> sum of matrix  👉️ <a href="matrix.py">SUM OF MATRIX</a><li>
 </ol>
