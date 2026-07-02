@@ -5,6 +5,7 @@ Author: Ananya
 Hello. <br>
 Things done: <br>
 <ol>
+	<li> readme file 👉️ <a href="README.md"> README</a></li>
 	<li> single array  👉️  <a href="/2Darray.py">2D</a> </li>
 	<li> linear sort  👉️ <a href="/linear.py">LINEAR</a> </li>
 	<li> bubble sort  👉️ <a href="/bubble.py">BUBBLE</a> </li>
@@ -14,5 +15,5 @@ Things done: <br>
 	<li> missing number  👉️ <a href="missing.py">MISSING NUMBER</a></li>
 	<li> array into three segments 👉️ <a href="three.py">ARRAY INTO THREE SEGMENTS</a></li>
 	<li> adding by query 👉️ <a href="querryadd.py"> ADD BY QUERY</a></li>
-	<li> sum of matrix  👉️ <a href="matrix.py">SUM OF MATRIX</a><li>
+	<li> sum of matrix  👉️ <a href="matrix.py">SUM OF MATRIX</a></li>
 </ol>
